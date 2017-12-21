@@ -1,6 +1,6 @@
 
 #from __future__ import division
-
+import matplotlib.pyplot as plt
 def median(list_of_numbers):
 # this function takes a list of sorted numbers and calculates the median
     if (len(list_of_numbers)%2 ==0):
@@ -106,3 +106,7 @@ print "Five Number Summary ",Min, Q1, Q2, Q3, Max,'\n'
 
 # getting the outliers
 outlierDetection(Q1,Q3,list_of_numbers)
+
+
+plt.boxplot(list_of_numbers)
+plt.show()
