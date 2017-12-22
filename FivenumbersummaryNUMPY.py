@@ -46,7 +46,7 @@ Min=list_of_numbers[0]
 Max=list_of_numbers[-1]
 
 
-# getting the minimum number of the list
+# getting the Q2 of the list
 median = np.median(list_of_numbers)
 # getting the Q3 of the list
 upper_quartile = np.percentile(list_of_numbers, 75)
