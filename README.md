@@ -24,7 +24,7 @@ Fivenumbersummary.py and
 ## The difference between the two programs is that the former is shorter due to using the NUMPY library capabilities.
 
 
-The output of Fivenumbersummary.py and FivenumbersummaryNUMPY.py is as follows:
+## The output of Fivenumbersummary.py and FivenumbersummaryNUMPY.py is as follows:
 
 The observations after sorting:  [53, 79, 80, 82, 87, 91, 93, 98]
 
