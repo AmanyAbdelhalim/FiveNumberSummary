@@ -34,6 +34,7 @@ Five Number Summary  53 79.75 84.5 91.5 98
 IQR=  11.75
 Lowerthreshold=  62.125
 Upperthreshold=  109.125
+
 53 is an outlier because it is lower than than the lowerthreshold
 
 ![Screenshot](boxplotnumpy.png)
