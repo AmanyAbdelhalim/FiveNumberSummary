@@ -16,7 +16,7 @@ The program should have the following three functions:
 The program should output a BoxPlot as well.
 Don't forget to sort the observations.
 
-There is two python files that produce the same output, 
+There is two python files that produce the same output,
 Fivenumbersummary.py and
  FivenumbersummaryNUMPY.py
 
@@ -25,14 +25,15 @@ The difference between the two programs is that the former is shorter due to usi
 
 The output of Fivenumbersummary.py and FivenumbersummaryNUMPY.py is as follows:
 
-The observations after sorting:  [53, 79, 80, 82, 87, 91, 93, 98] 
+The observations after sorting:  [53, 79, 80, 82, 87, 91, 93, 98]
 
-Number of observations =   8 
+Number of observations =   8
 
-Five Number Summary  53 79.75 84.5 91.5 98 
+Five Number Summary  53 79.75 84.5 91.5 98
 
 IQR=  11.75
 Lowerthreshold=  62.125
 Upperthreshold=  109.125
 53 is an outlier because it is lower than than the lowerthreshold
 
+![Screenshot](boxplotnumpy.png)
